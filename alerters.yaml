@@ -1,0 +1,7 @@
+---
+alerters:
+  discord:
+    webhook_url: https://l.messenger.com/l.php?u=https%3A%2F%2Fdiscord.com%2Fapi%2Fwebhooks%2F812420595886194738%2FCOQAj00pAvAaRQB2nznEiVT4iYrIsdw1CPrY4Mw2fjTGWU0rG5snq3M64yNcb69_4fW8&h=AT0dPLJ8ck5IGvWXHweTm0xLAKnGF-LG_NFb3PmZLsnM5hrfePdPUfhl1lWXtmKfZgM_MsgBlAFX39kQRys6NNJdZDu5Each_a4GilSTxYFwRisnOtfZc150kt-KF80SBkEVcXRE
+    mentions:
+      - here
+...
