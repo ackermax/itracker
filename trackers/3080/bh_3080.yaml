@@ -1,0 +1,12 @@
+---
+refresh_interval: 2 # seconds
+urls:
+  - https://www.bhphotovideo.com/c/product/1614303-REG/asus_rtx3080_10g_ek_ekwb_geforce_rtx_3080.html
+  - https://www.bhphotovideo.com/c/product/1599836-REG/gigabyte_gv_n3080vision_oc_10gd_geforce_rtx_3080_vision.html
+  - https://www.bhphotovideo.com/c/product/1614301-REG/asus_rog_strix_rtx3080_o10g_white_rog_strix_geforce_rtx.html
+  - https://www.bhphotovideo.com/c/product/1599834-REG/gigabyte_gv_n3080aorus_m_10gd_aorus_geforce_rtx_3080.html
+  - https://www.bhphotovideo.com/c/product/1599835-REG/gigabyte_gv_n3080aorus_x_10gd_aorus_geforce_rtx_3080.html
+  - https://www.bhphotovideo.com/c/product/1603617-REG/asus_rog_strix_rtx3080_o10g_gaming_rog_strix_geforce_rtx.html
+  - https://www.bhphotovideo.com/c/product/1605888-REG/msi_geforce_rtx_3080_suprim.html
+  - https://www.bhphotovideo.com/c/product/1595780-REG/pny_technologies_vcg308010tfxmpb_geforce_rtx_3080_10gb.html
+...

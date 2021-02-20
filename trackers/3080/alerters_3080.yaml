@@ -1,0 +1,7 @@
+---
+alerters:
+  discord:
+    webhook_url: https://discordapp.com/api/webhooks/812477979933802576/bEfgrlfEor9ADsRA_bOyZdhozjW_aqIQtB1Cb2fiW_XGYY1JvWn2PezLBG-XNe06lqHl
+    mentions:
+      - here
+...

@@ -1,0 +1,10 @@
+---
+refresh_interval: 2 # seconds
+urls:
+  - https://www.bhphotovideo.com/c/product/1606697-REG/gigabyte_gv_n3090aorus_m_24gd_aorus_geforce_rtx_3090.html
+  - https://www.bhphotovideo.com/c/product/1614302-REG/asus_rog_strix_rtx3090_o24g_white_rog_strix_geforce_rtx.html
+  - https://www.bhphotovideo.com/c/product/1601764-REG/asus_rog_strix_rtx3090_o24g_gaming_rog_strix_geforce_rtx.html
+  - https://www.bhphotovideo.com/c/product/1607043-REG/asus_rtx3090_24g_ek_geforce_rtx_3090_24g.html
+  - https://www.bhphotovideo.com/c/product/1595781-REG/pny_technologies_vcg309024tfxmpb_geforce_rtx_3090_24gb.html
+  - https://www.bhphotovideo.com/c/product/1605889-REG/msi_geforce_rtx_3090_suprim.html
+...

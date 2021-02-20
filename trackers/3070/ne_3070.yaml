@@ -1,0 +1,29 @@
+---
+refresh_interval: 2 # seconds
+urls:
+  - https://www.newegg.com/asus-geforce-rtx-3070-tuf-rtx3070-o8g-gaming/p/N82E16814126461
+  - https://www.newegg.com/evga-geforce-rtx-3070-08g-p5-3755-kr/p/N82E16814487530
+  - https://www.newegg.com/asus-geforce-rtx-3070-rog-strix-rtx3070-o8g-gaming/p/N82E16814126458
+  - https://www.newegg.com/msi-geforce-rtx-3070-rtx-3070-suprim-x-8g/p/N82E16814137620
+  - https://www.newegg.com/zotac-geforce-rtx-3070-zt-a30700h-10p/p/N82E16814500505
+  - https://www.newegg.com/msi-geforce-rtx-3070-rtx-3070-suprim-8g/p/N82E16814137623
+  - https://www.newegg.com/asus-geforce-rtx-3070-rog-strix-rtx3070-o8g-white/p/N82E16814126484
+  - https://www.newegg.com/msi-geforce-rtx-3070-rtx-3070-ventus-2x-oc/p/N82E16814137602
+  - https://www.newegg.com/gigabyte-geforce-rtx-3070-gv-n3070gaming-oc-8gd/p/N82E16814932342
+  - https://www.newegg.com/gigabyte-geforce-rtx-3070-gv-n3070vision-oc-8gd/p/N82E16814932360
+  - https://www.newegg.com/evga-geforce-rtx-3070-08g-p5-3767-kr/p/N82E16814487532
+  - https://www.newegg.com/asus-geforce-rtx-3070-ko-rtx3070-o8g-gamin/p/N82E16814126466
+  - https://www.newegg.com/asus-geforce-rtx-3070-dual-rtx3070-o8g/p/N82E16814126459
+  - https://www.newegg.com/gigabyte-geforce-rtx-3070-gv-n3070aorus-m-8gd/p/N82E16814932359
+  - https://www.newegg.com/evga-geforce-rtx-3070-08g-p5-3751-kr/p/N82E16814487528
+  - https://www.newegg.com/gigabyte-geforce-rtx-3070-gv-n3070eagle-8gd/p/N82E16814932344
+  - https://www.newegg.com/asus-geforce-rtx-3070-dual-rtx3070-8g/p/N82E16814126460
+  - https://www.newegg.com/gigabyte-geforce-rtx-3070-gv-n3070eagle-oc-8gd/p/N82E16814932343
+  - https://www.newegg.com/msi-geforce-rtx-3070-rtx-3070-ventus-3x-oc/p/N82E16814137601
+  - https://www.newegg.com/evga-geforce-rtx-3070-08g-p5-3753-kr/p/N82E16814487529
+  - https://www.newegg.com/pny-geforce-rtx-3070-vcg30708dfmpb/p/N82E16814133812
+  - https://www.newegg.com/pny-geforce-rtx-3070-vcg30708tfxppb/p/N82E16814133811
+  - https://www.newegg.com/msi-geforce-rtx-3070-rtx-3070-gaming-trio/p/N82E16814137633
+  - https://www.newegg.com/evga-geforce-rtx-3070-08g-p5-3765-kr/p/N82E16814487531
+  - https://www.newegg.com/asus-geforce-rtx-3070-tuf-rtx3070-o8g-gaming/p/1FT-000Y-00532
+...
